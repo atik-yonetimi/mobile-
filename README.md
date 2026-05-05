@@ -33,7 +33,11 @@ Gelişmiş rota optimizasyonu, canlı navigasyon ve üç farklı kullanıcı rol
 * **Rota Sağlayıcı:** OSRM API
 * **Tasarım Dili:** Modern, temiz ve minimalist UI (Material 3)
 
----
-<img width="200" height="350" alt="Sürücü Login Sayfası" src="https://github.com/user-attachments/assets/4d7b288e-8246-47a9-ab5d-f437ae8cc18b" /><img width="200" height="350" alt="Misafir Login Sayfası" src="https://github.com/user-attachments/assets/521a86fe-644a-486d-85dd-34349e30e237" />
-<img width="200" height="350" alt="Yönetici Login Sayfası" src="https://github.com/user-attachments/assets/3b82faf0-12e1-4658-a971-4f6afa844962" />
+
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/4d7b288e-8246-47a9-ab5d-f437ae8cc18b" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/521a86fe-644a-486d-85dd-34349e30e237" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/3b82faf0-12e1-4658-a971-4f6afa844962"></td>
+  </tr>
+</table>
 

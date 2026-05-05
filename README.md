@@ -37,7 +37,7 @@ Gelişmiş rota optimizasyonu, canlı navigasyon ve üç farklı kullanıcı rol
   <tr>
     <td><img src="https://github.com/user-attachments/assets/4d7b288e-8246-47a9-ab5d-f437ae8cc18b" width="250"></td>
     <td><img src="https://github.com/user-attachments/assets/521a86fe-644a-486d-85dd-34349e30e237" width="250"></td>
-    <td><img src="https://github.com/user-attachments/assets/3b82faf0-12e1-4658-a971-4f6afa844962"></td>
+    <td><img src="https://github.com/user-attachments/assets/3b82faf0-12e1-4658-a971-4f6afa844962" widht="250"></td>
   </tr>
 </table>
 

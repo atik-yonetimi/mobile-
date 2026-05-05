@@ -34,6 +34,6 @@ Gelişmiş rota optimizasyonu, canlı navigasyon ve üç farklı kullanıcı rol
 * **Tasarım Dili:** Modern, temiz ve minimalist UI (Material 3)
 
 ---
-<img width="200" height="300" alt="Sürücü Login Sayfası" src="https://github.com/user-attachments/assets/4d7b288e-8246-47a9-ab5d-f437ae8cc18b" /><img width="610" height="1356" alt="Misafir Login Sayfası" src="https://github.com/user-attachments/assets/521a86fe-644a-486d-85dd-34349e30e237" />
-<img width="1220" height="2712" alt="Yönetici Login Sayfası" src="https://github.com/user-attachments/assets/3b82faf0-12e1-4658-a971-4f6afa844962" />
+<img width="200" height="350" alt="Sürücü Login Sayfası" src="https://github.com/user-attachments/assets/4d7b288e-8246-47a9-ab5d-f437ae8cc18b" /><img width="200" height="350" alt="Misafir Login Sayfası" src="https://github.com/user-attachments/assets/521a86fe-644a-486d-85dd-34349e30e237" />
+<img width="200" height="350" alt="Yönetici Login Sayfası" src="https://github.com/user-attachments/assets/3b82faf0-12e1-4658-a971-4f6afa844962" />
 

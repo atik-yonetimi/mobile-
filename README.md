@@ -1,4 +1,3 @@
-<img width="610" height="1356" alt="Şikayet Sayfası-1" src="https://github.com/user-attachments/assets/91b59a3b-c232-4501-84c6-f826da81cc1a" />
 # ♻️ Temiz Rotacılar - Mobil Uygulama (Frontend)
 
 Modern, çevre dostu ve optimize edilmiş akıllı atık toplama yönetim sistemi. Bu depo, **Temiz Rotacılar** projesinin [Flutter](https://flutter.dev/) kullanılarak geliştirilmiş mobil arayüzünü içermektedir.
